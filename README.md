@@ -66,7 +66,8 @@ Also learnt how to toggle the hamburger menu with JS.
 ```html 
 <button class="py-3 px-8 bg-brightRed rounded-full text-white shadow-xl hover:bg-brightRedLight focus:outline-none border-none">
   A button with tailwind classes
-</button>``` 
+</button>
+``` 
 
 ```js
 btn.addEventListener('click', () => {
