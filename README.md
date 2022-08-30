@@ -33,7 +33,10 @@ Users should be able to:
 
 ### Screenshot
 
+Full Screenshot
 ![](./images/Screenshot%20Full.png)
+
+Visible Screenshot
 ![](./images/Screenshot%20Visible.png)
 
 
@@ -56,25 +59,22 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This is my first project using TailwindCss. Learnt how to use classes to style my page without having to leave my HTML file.
+Also learnt how to toggle the hamburger menu with JS.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+```html 
+<button class="py-3 px-8 bg-brightRed rounded-full text-white shadow-xl hover:bg-brightRedLight focus:outline-none border-none">
+  A button with tailwind classes
+</button>``` 
+
 ```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+btn.addEventListener('click', () => {
+  btn.classList.toggle('open')
+  nav.classList.toggle('flex')
+  nav.classList.toggle('hidden')
+})
 ```
-
-
 
 ### Continued development
 
