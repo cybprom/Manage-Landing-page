@@ -33,11 +33,14 @@ Users should be able to:
 
 ### Screenshot
 
-Full Screenshot
-![](./images/Screenshot%20Full.png)
+## Desktop Screenshot
+![](./images/Screenshot%20desktop-view.png)
 
-Visible Screenshot
-![](./images/Screenshot%20Visible.png)
+## Mobile Screenshot
+![](./images/Screenshot%20mobile.png)
+
+## Mobile Nav
+![](./images/Screenshot%20mobile-nav.png)
 
 
 ### Links
