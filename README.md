@@ -40,7 +40,7 @@ Users should be able to:
 ![](./images/Screenshot%20mobile.png)
 
 ## Mobile Nav
-![](./images/Screenshot%20mobile-nav.png)
+![](./images/Screenshot%20mobile%20nav.png)
 
 
 ### Links
