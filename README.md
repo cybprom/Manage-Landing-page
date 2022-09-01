@@ -45,8 +45,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Manage Landing Page](https://your-solution-url.com)
-- Live Site URL: [Manage Landing Page](https://your-live-site-url.com)
+- Solution URL: [Manage Landing Page](https://cybprom-manage-page.netlify.app/)
+- Live Site URL: [Manage Landing Page](https://cybprom-manage-page.netlify.app/)
 
 ## My process
 
