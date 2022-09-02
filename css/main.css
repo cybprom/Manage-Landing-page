@@ -911,16 +911,11 @@ video {
 
 body {
   font-family: 'Be Vietnam Pro', sans-serif;
-  background-image: url('../images/bg-tablet-pattern.svg');
+  background-image: url('../images/bg-tablet-pattern.svg'), url('../images/bg-tablet-pattern.svg');
   background-repeat: no-repeat;
   background-size: 800px;
   /* background-position: -90% 60%; */
-  background-position: right -25%;
-  /* background-image: url(../images/bg-tablet-pattern.svg);
-    background-repeat: no-repeat; */
-  /* background-size: 800px; */
-  /* background-position: -90% 60%;
-    background-position: -20% 30%; */
+  background-position: right -25%, -90% 60%;
 }
 
 #cta {
@@ -930,7 +925,7 @@ body {
 
 @media only screen and (max-width: 576px) {
   body {
-    background-position: 60px -50px;
+    background-position: 60px -100px, 265px 15%;
     background-size: 500px;
   }
 
